@@ -1,0 +1,8 @@
+# Agent System Inteproprability
+.tmp/
+.env
+*.env
+credentials.json
+token.json
+__pycache__/
+*.pyc
